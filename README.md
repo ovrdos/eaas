@@ -1,13 +1,16 @@
 ## EAAS - ENVIRONMENT AS A SERVICE
 
 # Inputs
+
 Higher environment to emulate. 
 <pre>
 curl https://eaas.work/build/install
 eaas up https://cicd.server.com/path/application/env/build/ 
 </pre>
 <br>
+
 # Output
+
 Images and containers and configs reflecting that exact environment.
 <pre>
  _______   ________  ________  ________      
