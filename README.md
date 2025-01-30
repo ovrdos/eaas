@@ -5,7 +5,7 @@
 Higher environment to emulate. 
 <pre>
 curl https://eaas.work/build/install
-eaas up https://cicd.server.com/path/application/env/build/ 
+eaas up https://github.com/app_name/env/
 </pre>
 <br>
 
